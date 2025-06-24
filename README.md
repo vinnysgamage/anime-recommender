@@ -1,10 +1,10 @@
 # Anime Recommender Web App
 
-A web app that recommends anime based on user genre preferences and rating data. Built using React, TypeScript, and Supabase, with plans to integrate the MyAnimeList API (via Jikan) for fetching anime metadata.
+A web app that recommends anime based on user genre preferences and rating data. Built using React, TypeScript, Node, Express, and PostgreSQL, with plans to integrate the MyAnimeList API (via Jikan) for fetching anime metadata.
 
 ## 🚧 Status
 
-This project is currently in early development. The file structure has been set up using Vite, and Supabase is being integrated for authentication and backend functionality.
+This project is currently in early development. The file structure has been set up using Vite, and Node, Express, as well as PostgreSQL are being integrated for authentication and backend functionality.
 
 ## 💡 Features (Planned)
 
@@ -21,5 +21,5 @@ This project is currently in early development. The file structure has been set 
 ## 🛠 Tech Stack
 
 - **Frontend**: React, TypeScript, Vite
-- **Backend**: Supabase (Auth + Database)
+- **Backend**: Node, Express, PostgreSQL (Auth, Database, and API)
 - **API**: Jikan (MyAnimeList wrapper)
