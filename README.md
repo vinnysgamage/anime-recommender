@@ -1,4 +1,4 @@
-# Anime Recommender Web App
+# AniRec (Anime Recommender Web App)
 
 A web app that recommends anime based on user genre preferences and rating data. Built using React, TypeScript, Node, Express, and PostgreSQL, with plans to integrate the MyAnimeList API (via Jikan) for fetching anime metadata.
 
