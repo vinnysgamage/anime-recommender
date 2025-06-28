@@ -8,7 +8,7 @@ This project is currently in early development. The file structure has been set 
 
 ## 💡 Features (Planned)
 
-- User authentication (Supabase)
+- User authentication and login
 - Genre preference selection
 - Periodically updated anime recommendations
 - Hoverable anime cards showing:
