@@ -16,7 +16,7 @@ This project is currently in early development. The file structure has been set 
   - Title
   - Rating and description
 - Filtering based on preferences
-- Persistent user preferences via Supabase database
+- Persistent user preferences via PostgreSQL database
 
 ## 🛠 Tech Stack
 
